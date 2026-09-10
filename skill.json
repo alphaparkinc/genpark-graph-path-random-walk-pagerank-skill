@@ -1,0 +1,16 @@
+{
+  "name": "genpark-graph-path-random-walk-pagerank-skill",
+  "version": "1.0.0",
+  "description": "Personalized PageRank (PPR) and Random Walk with Restart (RWR) graph traversal engine ranking entity relevance for knowledge discovery.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "pagerank",
+    "ppr",
+    "random-walk",
+    "graph-algorithms",
+    "entity-ranking"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
